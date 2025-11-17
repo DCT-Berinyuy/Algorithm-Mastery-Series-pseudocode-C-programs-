@@ -9,7 +9,7 @@ Start
 		ElseIf (B > A) AND (B > C) Then
 			Largest <-- B
 			Else 
-				Largest <-- C
+				Larg4est <-- C
 	EndIF
 	Display("The largest number is: ", Largest)
 End
