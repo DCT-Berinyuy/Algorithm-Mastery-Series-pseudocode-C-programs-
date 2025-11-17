@@ -1,4 +1,4 @@
-# Algorithm-Mastery-Series-pseudocode-C-programs-
+#Algorithm-Mastery-Series-pseudocode-C-programs-
 
 An *algorithm* is a step-by-step procedure or set of rules for solving a problem or completing a task. In computer science, it's a finite sequence of well-defined instructions that take an input and produce an output, forming the logical basis for a program. Think of an algorithm like a recipe: a precise set of instructions that, when followed correctly, yields a specific result. 
 
