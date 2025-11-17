@@ -12,7 +12,7 @@ Start
 
 	Temp <-- A // Temp = 3
 	A <-- B  // A = 5
-	B <-- Temp  / B = 3
+	B <-- Temp  // B = 3
 
 	Display("After swapping: ")
 	Display(A)
