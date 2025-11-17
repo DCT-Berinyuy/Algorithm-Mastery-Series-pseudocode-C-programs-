@@ -1,14 +1,15 @@
-/*	Exercise 4 - Odd or Even
+/*	Exercise 4 - Odd or Even Number
 
 Start
 	Declare N as integer
 	Display("Enter a number: ")
 	Read(N)
-	if(N mod 2 = 0) Then
+	If(N mod 2 = 0) Then
 		Display("The number is even: ")
-		ElseIf
+		Else
 			Display("The number is odd: ")
 	EndIf
+End
 */
 #include <stdio.h>
 int main() {
